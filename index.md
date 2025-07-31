@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me （info need update）
+# About Me
 
 Here is **Yadong Jiang (Edun, 蒋亚东)**.<br>
 
