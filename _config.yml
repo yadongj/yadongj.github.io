@@ -7,8 +7,8 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-# url: https://yadongj.github.io/
-url: https://yadongjiang.com
+url: https://yadongj.github.io/
+# url: https://yadongjiang.com
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
