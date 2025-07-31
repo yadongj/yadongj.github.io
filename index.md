@@ -4,8 +4,6 @@ layout: page
 
 # About Me （info need update）
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
-
 Here is **Yadong Jiang (Edun, 蒋亚东)**.<br>
 
 I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
