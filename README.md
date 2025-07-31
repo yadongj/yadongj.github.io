@@ -2,7 +2,7 @@
 
 GuangLun (光轮) means Nimbus in Chinese ✨
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. 
+Here is **Yadong Jiang (Edun, 蒋亚东)**. 
 
 This is the repository for my personal website.
 
