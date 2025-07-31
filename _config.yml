@@ -50,8 +50,8 @@ owner:
 links:
   - title: About Me
     url: /
-  # - title: Publications
-  #   url: /publications/
+  - title: Publications
+    url: /publications/
   # - title: Awards
   #   url: /awards/
   # - title: Hobbies
