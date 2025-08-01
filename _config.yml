@@ -3,7 +3,7 @@
 # --------------------------------------------------
 title: Yadong Jiang   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Yadong Jiang. Powered by Jekyll.  # Optional short tagline, used by some layouts
-description: Two roads diverged in woods, I took the one less traveled by.  # Strongly recommended for SEO & social cards
+description: Life is a mean regression, and that mean is the deepest impulse in your heart.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
@@ -17,28 +17,28 @@ owner:
   avatar: cats.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: edunyadong@gmail.com
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  # cv: https://yadongj.github.io/file/CV.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
+  # twitter: XXX
   github: yadongj
-  # linkedin: hanlincai
+  # linkedin: XXX
   scholar: https://scholar.google.com/citations?user=nwXiaR0AAAAJ
-  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  # zhihu: https://www.zhihu.com/people/chlire
-  # xiaohongshu: 5c27848f0000000005030c6f
-  # bilibili: 594030035
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
+  # researchgate: https://www.researchgate.net/profile/XX
+  # zhihu: https://www.zhihu.com/people/XX
+  # xiaohongshu: XXX
+  # bilibili: XXX
+  # facebook: XXX
+  # instagram: XXX
+  # lastfm:XX
+  # tumblr:XX
 
 
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "XXX"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
