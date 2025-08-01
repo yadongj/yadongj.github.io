@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-
+Hi~,<br>
 Here is **Yadong Jiang (蒋亚东)**. I am a postdoc cowork with [Prof. Jing Wang](https://scholar.google.com/citations?user=Ukqgbv4AAAAJ&hl=zh-CN) at Department of Physics, Fudan University, China.
 
 My research interests are focused on the theoretical study of novel quantum phenomena in condensed matter systems, applying topology to solid-state electronic states as well as new physical states and materials. 
@@ -26,7 +26,7 @@ My PhD was specialized in  magnetic topological materials, studying their novel 
 
 ## Experiences
 
-
+ᕕ( ᐛ )ᕗ <br>
 **2014-2018. Sichuan Normal University**. Major in Physics (Tao Xingzhi Class). Bachelor <br>
 
 **2018-2024. Fudan University**. Theoretical physics (supervisor: Jing Wang). PhD <br>
