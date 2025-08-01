@@ -24,20 +24,16 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - First principle calculation
 
 
-
 ---
 
-## **Experiences**
+## Experiences
 
+**2014-2018. Sichuan Normal University**. Major in Physics (Tao Xingzhi Class). Bachelor <br>
 
-
-**2014-2018. Sichuan Normal University**. Major in Physics (Tao Xingzhi Class). Bachelor<br>
-
-**2018-2024. Fudan University**. Theoretical physics (supervisor: Jing Wang). PhD<br>
+**2018-2024. Fudan University**. Theoretical physics (supervisor: Jing Wang). PhD <br>
 
 **2024-Now. Fudan University**. Postdoc 
 
-<br>
 
 ---
 
