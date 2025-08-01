@@ -5,9 +5,8 @@ layout: page
 # About Me
 
 Hi~,<br>
-Here is **Yadong Jiang (蒋亚东)**. I am a postdoc cowork with [Prof. Jing Wang](https://scholar.google.com/citations?user=Ukqgbv4AAAAJ&hl=zh-CN) at Department of Physics, Fudan University, China.
 
-My research interests are focused on the theoretical study of novel quantum phenomena in condensed matter systems, applying topology to solid-state electronic states as well as new physical states and materials. 
+Here is **Yadong Jiang (蒋亚东)**. I am a postdoc cowork with [Prof. Jing Wang](https://scholar.google.com/citations?user=Ukqgbv4AAAAJ&hl=zh-CN) at Department of Physics, Fudan University, China. My research interests are focused on the theoretical study of novel quantum phenomena in condensed matter systems, applying topology to solid-state electronic states as well as new physical states and materials. 
 
 My PhD was specialized in  magnetic topological materials, studying their novel properties by first-principles calculations, effective model and topological band theory. My previous works aimed to predict potential magnetic topological insulator, particularly focus on High-T quantum anomalous hall insulator candidates in 2D materials. If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **edunyadong[at]gmail.com**
 
