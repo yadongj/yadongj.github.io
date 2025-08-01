@@ -27,6 +27,7 @@ My PhD was specialized in  magnetic topological materials, studying their novel 
 ## Experiences
 
 ᕕ( ᐛ )ᕗ <br>
+
 **2014-2018. Sichuan Normal University**. Major in Physics (Tao Xingzhi Class). Bachelor <br>
 
 **2018-2024. Fudan University**. Theoretical physics (supervisor: Jing Wang). PhD <br>
