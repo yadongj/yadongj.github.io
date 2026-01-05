@@ -8,7 +8,7 @@ title: Publications
 
 ## Selected Papers
 
-- [FeTaX2: A ferrimagnetic quantum anomalous Hall insulator](https://arxiv.org/abs/2506.07125).arXiv 2506.07125, under review (2025).<br>**Yadong Jiang**†, Huan Wang†, Jing Wang\*.<br>
+- [FeTaX2: A ferrimagnetic quantum anomalous Hall insulator](https://arxiv.org/abs/2506.07125).arXiv 2506.07125, Physical Review Letters (accepted in 2026.1).<br>**Yadong Jiang**†, Huan Wang†, Jing Wang\*.<br>
 - [Intrinsic antiferromagnetic topological insulator and axion state in V2WS4](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.165109).Physical Review B (2025.4).<br>**Yadong Jiang**, Huan Wang, Kejie Bao, Jing Wang\*.
 - [Monolayer V2⁢𝑀⁢𝑋4: A New Family of Quantum Anomalous Hall Insulators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.106602).Physical Review Letters (2024.3).[An interview on Phys.org](https://phys.org/news/2024-04-unveils-family-quantum-anomalous-hall.html)<br>**Yadong Jiang**†, Huan Wang†, Kejie Bao, Zhaochen Liu, Jing Wang\*.
 - [Discovering two-dimensional magnetic topological insulators by machine learning](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.035122).Physical Review B (2024.1).<br>Haosheng Xu, **Yadong Jiang**, Jing Wang\*.
