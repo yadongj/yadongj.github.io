@@ -99,8 +99,6 @@ kramdown:
 # --------------------------------------------------
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
-disqus:
-  shortname: lancecai
 
 
 # include: [".htaccess"]
