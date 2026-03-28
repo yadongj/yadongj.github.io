@@ -34,15 +34,6 @@ owner:
   # lastfm:XX
   # tumblr:XX
 
-
-# --------------------------------------------------
-#  SEARCH-ENGINE VERIFICATION & ANALYTICS
-# --------------------------------------------------
-# google_verify: "XXX"
-# bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
-
-
 # --------------------------------------------------
 #  TOP NAVIGATION BAR
 #  `external: true` opens the link in a new tab.
