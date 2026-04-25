@@ -6,7 +6,7 @@ title: Publications
 
 > (†: equal contribution, \*: corresponding author)
 
-## First author and co-first author
+## First and co-first author
 
 - [Revisiting quadratic band crossing: from interaction-driven instability to intrinsic topology](https://arxiv.org/abs/2604.07139).arXiv 2604.07139.<br>**Yadong Jiang**†, Linghao Huang†, Zhaochen Liu, Huan Wang, Jing Wang\*.<br>
 - [FeTaX2: A ferrimagnetic quantum anomalous Hall insulator](https://journals.aps.org/prl/abstract/10.1103/5k34-4zyh).Physical Review Letters (2026.1).<br>**Yadong Jiang**†, Huan Wang†, Jing Wang\*.<br>
